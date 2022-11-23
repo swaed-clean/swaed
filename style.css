@@ -1,0 +1,33 @@
+@import url('https://fonts.googleapis.com/css2?family=Cairo:wght@400;900&display=swap');
+
+body {
+    font-family: 'Cairo', sans-serif;
+
+}
+
+.banner {
+    margin-right: auto;
+    margin-left: auto;
+
+}
+
+.navbar-brand {
+    font-weight: 900;
+}
+
+.footer {
+    text-decoration: none;
+}
+
+q {
+    font-size: 22px;
+}
+
+.plur {
+    background-color: rgba(255, 255, 255, .15);
+    backdrop-filter: blur(5px);
+}
+
+.phone-btn {
+    margin-right: 10px;
+}
