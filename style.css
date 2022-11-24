@@ -31,3 +31,9 @@ q {
 .phone-btn {
     margin-right: 10px;
 }
+
+.shadow {
+    box-shadow: 7px 7px 23px -5px rgba(0, 0, 0, 0.79) !important;
+    -webkit-box-shadow: 7px 7px 23px -5px rgba(0, 0, 0, 0.79) !important;
+    -moz-box-shadow: 7px 7px 23px -5px rgba(0, 0, 0, 0.79) !important;
+}
